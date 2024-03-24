@@ -6,7 +6,7 @@ Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/ma
 
 ### Portfolio
 
-[![Website](https://img.shields.io/website?label=Sohail_Portfolio&style=for-the-badge&url=http://portfoliosohailraza.surge.sh)](http://portfoliosohailraza.surge.sh/)
+[![Website](marwanyoussef.com)
 
 ### Follow me
 
@@ -18,15 +18,15 @@ I'm a full-stack software engineer passionate about solving complicated problems
 
 About me
 
-- 💼 Full Stack Javascript Engineer at [Apptimum Labs](https://apptimumlabs.com/)
+- 💼 Consiltant at Concorde education 
 
-- 🔭 Right now, I'm working with Next.js, GraphQL, Node.js, and Dato CMS.
+- 🔭 Right now, I'm working with Next.js, GraphQL, Node.js, and Data analysis.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+-  I love writing TypeScript, and building fun experiments on type-level
 
-- 👯 I’m looking to collaborate on DApp & React/Next projects
+- 👯 I’m looking to collaborate on React/Next projects
 
-- 🌱 I’m currently learning Blockchain
+n
 
 - 💬 Ask me about anything [here](https://github.com/csgmar21/csgmar21/issues)
 
